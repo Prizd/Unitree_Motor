@@ -14,6 +14,8 @@ run gcc --version  command to check your gcc version
 
 ### Build
 ```bash
+git clone https://github.com/Prizd/Unitree_Motor.git
+cd Unitree_Motor
 mkdir build
 cd build
 cmake ..
